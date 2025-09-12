@@ -1,0 +1,24 @@
+{
+  "name": "hello-cloud",
+  "version": "1.0.0",
+  "description": "hello-cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniArevalo12/hello-cloud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/DaniArevalo12/hello-cloud/issues"
+  },
+  "homepage": "https://github.com/DaniArevalo12/hello-cloud#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

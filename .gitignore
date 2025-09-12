@@ -1,0 +1,6 @@
+# quitar dependencias innecesarias
+node_modules/
+
+# logs
+.env
+
